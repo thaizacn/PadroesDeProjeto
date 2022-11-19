@@ -1,6 +1,6 @@
-# 🚀 Padrões de Projeto
+# 📐 Padrões de Projeto
 
-## ✨ Começando
+## ✅ Começando
 Atividade desenvolvida para solidificar o conceito de "Abstract Factory" do curso de Back-end Java da Escola Britânica de Artes Criativas e Tecnologia [EBAC](https://ebaconline.com.br/back-end-java)
 
 ## 💾 Clonando o repositório
